@@ -55,6 +55,10 @@ Whether it's building machine learning models or jamming with my percussion grou
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="40" alt="TensorFlow" />
   <img width="12" />
   
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL" />
+  <img width="12" />
+  
   <!-- R tidyverse -->
   <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/tidyverse.png" height="40" alt="Tidyverse" />
   <img width="12" />
@@ -62,11 +66,11 @@ Whether it's building machine learning models or jamming with my percussion grou
   <img width="12" />
   <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" height="40" alt="ggplot2" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/caret.png" height="40" alt="caret" />
+  <img width="12" />
   
   <!-- BI Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" alt="Tableau" />
 </div>
-
-###
