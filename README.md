@@ -17,11 +17,12 @@ Whether it's building machine learning models or jamming with my percussion grou
 ###
 
 <p align="left">
-✨ Creating bugs since my first Python script<br>
-📚 I'm currently learning more about cloud platforms and real-time data pipelines<br>
-🎯 Goals: To keep improving as a data professional and build meaningful projects that solve real-world problems<br>
-🎲 Fun fact: I'm a percussionist, love dancing salsa and bachata, and never say no to a beach walk with my dog
+✨ Creating bugs since sometime in 2013, when I started writing Python scripts in Notepad<br>
+📚 I'm currently learning more about cloud platforms (pursuing AWS certification)<br>
+🎯 Goals: Build a data professional career and develop meaningful projects that solve real-world problems<br>
+🎲 Fun fact: I'm a percussionist, love dancing salsa and bachata, and never say no to a good walk with a nice coffee
 </p>
+
 
 ###
 
