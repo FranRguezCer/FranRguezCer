@@ -38,12 +38,26 @@ Whether it's building machine learning models or jamming with my percussion grou
 <h2 align="left">🛠️ I work with</h2>
 
 <p align="left">
+  <!-- Programming -->
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
+
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
+
+  <!-- BI Tools -->
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat" />
   <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat" />
+
+  <!-- ML Frameworks -->
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat" />
+
+  <!-- Python Libraries -->
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-LangChain-000000?logo=openai&logoColor=white&style=flat" />
 </p>
